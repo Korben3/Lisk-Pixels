@@ -1,0 +1,22 @@
+{
+  "name": "lisk-pixels",
+  "version": "1.0.0",
+  "description": "Create pixel art on the blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lisk",
+    "poc",
+    "pixels",
+    "art",
+    "blockchain"
+  ],
+  "author": "korben3",
+  "license": "ISC",
+  "dependencies": {
+    "@liskhq/lisk-api-client": "^3.0.1",
+    "lisk-sdk": "3.0.2"
+  }
+}
