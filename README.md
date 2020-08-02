@@ -1,5 +1,5 @@
 # Lisk-Pixels
-Create pixel art on the blockchain. A fun educational project build with the [Lisk SDK](http://lisk.io).
+Create pixel art on the blockchain. A fun educational project built with the [Lisk SDK](http://lisk.io).
 
 ### Docs and Demo
 
