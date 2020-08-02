@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 450px) {
+  body table {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  body .colors {
+    width: 374px;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+td {
+  border: 1px solid grey;
+  width: 20px;
+  height: 15px;
+}
+input {
+  width: 40%;
+  height: 25px;
+}
+
+button {
+  background-color: #0000bb;
+  border: none;
+  color: white;
+  padding: 6px;
+  text-align: center;
+}
+button:hover {
+  background-color: #2222bb;
+}
+
+a:link {
+  color: #00aa00;
+  text-decoration: none;
+}
+a:visited {
+  color: #00aa00;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+a:active {
+  color: grey;
+}
+
+body {
+  margin: 0;
+  font-family: "Open-Sans", sans-serif;
+  color: white;
+  background-color: black;
+}

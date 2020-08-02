@@ -1,0 +1,14 @@
+.colors {
+  width: 600px;
+  margin: auto;
+  margin-bottom: 60px;
+}
+.swatches td {
+  width: 25px;
+  height: 20px;
+}
+.selectedColor {
+  width: 50px;
+  height: 41px;
+  float: left;
+}

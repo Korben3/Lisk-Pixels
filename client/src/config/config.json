@@ -1,0 +1,26 @@
+{
+  "credit": "Lisk Pixels by Delegate korben3",
+  "nodes": ["http://95.179.253.231:4000"],
+  "boardAddress": "1234567890L",
+  "boardSize": 30,
+  "boardRefreshRate": 15000,
+  "colorSwatches": {
+    "0": "#000000",
+    "1": "#0000AA",
+    "2": "#00AA00",
+    "3": "#00AAAA",
+    "4": "#AA0000",
+    "5": "#AA00AA",
+    "6": "#AA5500",
+    "7": "#AAAAAA",
+    "8": "#555555",
+    "9": "#5555FF",
+    "A": "#55FF55",
+    "B": "#55FFFF",
+    "C": "#FF5555",
+    "D": "#FF55FF",
+    "E": "#FFFF55",
+    "F": "#FFFFFF"
+  },
+  "consoleDefaultText": "Welcome to Lisk Pixels!\nA colorful blockchain demo build with the Lisk SDK and Lisk Elements created by delegate korben3.\n\nNew user:\n1: Click on create account to generate a new passphrase.\n2: Save the passphrase somewhere and click on the Login button.\n3: Share your address with korben3 to receive LPX tokens.\n"
+}

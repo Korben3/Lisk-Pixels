@@ -1,0 +1,13 @@
+.account {
+  margin: auto;
+  width: 80%;
+  margin-bottom: 8px;
+  text-align: center;
+}
+.accountButton {
+  cursor: pointer;
+  color: #00aa00;
+}
+.accountButton:hover {
+  color: white;
+}

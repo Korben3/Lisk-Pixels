@@ -1,0 +1,11 @@
+.console {
+  margin: auto;
+  width: 70%;
+  height: 125px;
+  border: 1px solid grey;
+  padding: 2px;
+  font-family: monospace;
+  font-size: small;
+  /* overflow-y: scroll; */
+  margin-bottom: 10px;
+}
