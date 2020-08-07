@@ -19,7 +19,16 @@ For Server documentation: [Server - Readme](https://github.com/Korben3/Lisk-Pixe
 
 You can find helpful tools and examples to make transactions in the [server/tools](https://github.com/Korben3/Lisk-Pixels/tree/master/server/tools) directory.
 
-### Custom transactions
+### Test Accounts
+
+You can use any of the below test accounts to login and start drawing:
+
+passphrase: walk stem insane fire advice direct arrange minor promote hint silent globe
+
+passphrase: find rail open sugar sure tiger element accuse collect open book easy
+
+
+### Custom Transactions
 
 There are 2 custom transactions implemented:
 
