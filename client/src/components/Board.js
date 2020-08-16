@@ -56,7 +56,7 @@ const Board = ({
           },
         },
         networkIdentifier: networkIdentifier,
-        timestamp: transactions.utils.getTimeFromBlockchainEpoch(new Date()),
+        timestamp: transactions.utils.getTimeFromBlockchainEpoch(new Date()- 5000),
       });
 
       tx.sign(userPassphrase);
