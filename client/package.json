@@ -1,6 +1,6 @@
 {
   "name": "lisk-pixels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@liskhq/lisk-api-client": "^3.0.1",
     "@liskhq/lisk-cryptography": "^2.4.2",
